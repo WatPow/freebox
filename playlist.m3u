@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0,2 - France 2 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
-#EXTINF:0,2 - France 2 (bas débit)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=ld
 #EXTINF:0,3 - France 3 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
 #EXTINF:0,5 - France 5 (HD)
