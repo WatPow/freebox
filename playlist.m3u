@@ -3,7 +3,3 @@
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
 #EXTINF:0,16 - CNews (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=sd
-#EXTINF:0,72 - SYFY (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1656&flavour=hd
-#EXTINF:0,208 - Animaux (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=hd
